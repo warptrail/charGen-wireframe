@@ -26,6 +26,15 @@ nav {
   z-index: 10;
 }
 
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+nav ul li {
+  margin-left: 10px;
+}
+
 header {
   padding: 12% 0;
 }

@@ -1,0 +1,17 @@
+Role,Task,Importance
+As a new user,I want to sign up for an account,High
+As a new user,I want to store a library of character profiles in my account,High
+As a new user,I want to generate random characters with the push of a button,High
+As a new user,I want to upload a picture for each character,Medium
+As a new user,I want to delete characters from my account,High
+As a new user,I want to edit stats in my character sheets,High
+As a new user,I want to be able to roll any combination of virtual dice with mods,Medium
+As a new user,"I want to sort my characters by class, level or alignment",High
+As a new user,I want to generate printable versions of my character sheet,Medium
+As a returning User,I want to sign into my account,High
+As a returning User,I want to access my characters,High
+As a returning User,I want to access other users characters (Read Only),Medium
+As a returning User,I want to be able to selectively randomize parts of character sheets,Medium
+As an administrator,I want to view all user accounts,High
+As an administrator,I want to unlock accounts,High
+As an administrator,I want to see most recent uploads,Medium
